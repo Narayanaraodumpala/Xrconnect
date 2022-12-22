@@ -1,2 +1,2 @@
 # Xrconnect-Flask Apis
-this is xrconnect project
+ xrconnect Flask APis without JWT tokens
